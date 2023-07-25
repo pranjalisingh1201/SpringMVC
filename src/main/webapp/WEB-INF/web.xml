@@ -12,5 +12,4 @@
   <servlet-name>SpringMVC</servlet-name><!-- This name should match above servlet - name -->
   <url-pattern>/</url-pattern>
   </servlet-mapping>
-
 </web-app>
